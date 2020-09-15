@@ -1,4 +1,4 @@
-
+@import url('https://fonts.google.com/specimen/Barlow+Semi+Condensed');
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
     background: radial-gradient(
@@ -168,7 +168,7 @@ body {
   
   main::before {
     content: "";
-    background-image: url(images/bg-pentagon.svg);
+    background-image: url(/images/bg-pentagon.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 80%;
