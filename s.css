@@ -168,7 +168,7 @@ body {
   
   main::before {
     content: "";
-    background-image: url("images/bg-pentagon.svg");
+    background-image: url(images/bg-pentagon.svg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 80%;
